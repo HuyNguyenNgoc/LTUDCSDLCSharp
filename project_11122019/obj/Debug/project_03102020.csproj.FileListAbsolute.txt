@@ -1,0 +1,3 @@
+G:\LaptrinhCSDLvoiC#\project\HuyNguyenNgoc_117000426_17SE111\project_11122019\bin\Debug\project_11122019.exe.config
+G:\LaptrinhCSDLvoiC#\project\HuyNguyenNgoc_117000426_17SE111\project_11122019\obj\Debug\project_11122019.exe
+G:\LaptrinhCSDLvoiC#\project\HuyNguyenNgoc_117000426_17SE111\project_11122019\obj\Debug\project_11122019.pdb
